@@ -1,0 +1,76 @@
+.sticker {
+  position: sticky;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+#option {
+  border: none;
+  background: rgba(0, 0, 0, 0);
+  color: rgb(0, 0, 0);
+  margin-left: 50px;
+}
+
+.background {
+  background: rgba(0, 0, 0, 0.1) url(../img/danfo.gif);
+  background-size: ;
+  background-repeat: no-repeat;
+}
+
+.navbar a {
+  color: black;
+  margin-left: 10px;
+}
+
+.navbar {
+    position: fixed;
+}
+
+.button1 {
+  margin-left: 20px;
+  background-color: black;
+  color: white !important;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+
+.button {
+  margin-left: 500px;
+  background-color: black;
+  color: white;
+  padding: 5px 5px;
+  border-radius: 5px;
+}
+
+.border {
+  background-color: black;
+  padding: 20px;
+  color: honeydew;
+  margin-right: 20px;
+  margin-left: 100px;
+}
+
+.border1 {
+  background-color: grey;
+  padding: 20px;
+  color: goldenrod;
+  margin-right: 20px;
+}
+
+.button2 {
+  background-color: orangered;
+  color: whitesmoke;
+  padding: 2px 5px;
+  margin-right: 40px;
+  border-radius: 5px;
+}
+
+.button3 {
+  color: palegoldenrod;
+}
+
+.button4 {
+  color: white;
+}
